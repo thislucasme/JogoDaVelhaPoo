@@ -9,9 +9,6 @@ public class GerenciadorDePontuacaoArquivo implements GerenciadorDePontuacao{
 	
 	
 	private void inicializar() {
-		
-		//teste
-		
 	}
 
 	@Override
